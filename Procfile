@@ -1,1 +1,1 @@
-web: java - jar -Dspring.profiles.active=pdn build/libs/app-market-1.0.jar
+web: java -jar build/libs/app-market-1.0.jar
